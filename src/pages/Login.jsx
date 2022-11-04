@@ -4,7 +4,7 @@ import React from 'react'
 export const Login = () => {
   return (
     <div className='row vh-100'>
-      <div className='"col-md-5 mx-auto align-self-center col-lg-2 col-sm-6 col-sx-12"'>
+      <div className="col-md-5 mx-auto align-self-center col-lg-2 col-sm-6 col-sx-12">
 
         <div className='col-form-label'>
         <div classname="mb-3 row">

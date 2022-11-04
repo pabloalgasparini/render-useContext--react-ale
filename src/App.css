@@ -8,7 +8,9 @@ background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+
 
 }
 
-.row{
+.container{
+  display: block;
+  align-items: center;
 text-align: center;
 color: aliceblue;
 

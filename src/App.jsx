@@ -2,6 +2,7 @@ import { AuthContext } from './context/AuthContext'
 import { AppRouter } from './routers/AppRouter'
 import './App.css'
 import { Login } from './pages/Login';
+import { Register } from './pages/Register';
 
 function App() {
   const user = {
@@ -18,7 +19,7 @@ function App() {
   ];
 
   return (
-    <Login/>
+    <Register/>
     // <AuthContext.Provider value={{
     //   user,
     //   tasks
